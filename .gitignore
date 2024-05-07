@@ -1,2 +1,6 @@
 node_modules/
 package-lock.json
+.dockerignore
+compose.yaml
+Dockerfile
+README.Docker.md
